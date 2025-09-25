@@ -1,0 +1,28 @@
+Identifier: MEX-INEGI.EGS3.02-ENVIPE-2025
+
+Title: Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública 2025
+
+Description: INEGI. Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública 2025. SNIEG. Información de Interés Nacional.
+La ENVIPE se realiza en el marco del Subsistema Nacional de Información de Gobierno, Seguridad Pública e Impartición de Justicia (SNIGSPIJ) para generar información con representatividad a nivel nacional y estatal que permita realizar estimaciones de la prevalencia delictiva que afectó a los hogares durante 2024, los niveles de incidencia delictiva y cifra negra. Asimismo, se busca obtener información sobre la percepción de la seguridad pública, así como el desempeño de las instituciones a cargo de la seguridad pública y la justicia. También se recaba información sobre las características del delito, el contexto de la victimización y el impacto económico y social del delito. Esto con el fin de proveer información al público en general y generar elementos para la toma de decisiones de política pública en estas materias.
+
+Modified: 2025-09-18
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: https://www.inegi.org.mx/rnm/index.php/catalog/1130/data_dictionary?idPro=
+  
+Keyword: Victimización, seguridad pública, desempeño institucional, delitos, denuncia, afectaciones del delito, robo, robo de vehículo, vandalismo, robo a casa habitación, secuestro, desaparición, homicidio, fraude bancario, fraude al consumidor, extorsión, amenazas, lesiones, hostigamiento, violación.
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2024-01-01-2024-12-31 y 2025-03-01-2025-04-30
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Anual
+
+Distribution: https://www.inegi.org.mx/programas/envipe/2025/
